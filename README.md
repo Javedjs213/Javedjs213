@@ -25,6 +25,7 @@ A MERN-based no-code platform helping schools and colleges create websites witho
 #### 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Javedjs213&layout=compact&theme=tokyonight)  
+![Javed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Javedjs213&show_icons=true&theme=radical)
 
 ---
 
