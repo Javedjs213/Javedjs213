@@ -38,7 +38,7 @@ A MERN-based no-code platform helping schools and colleges create websites witho
 
 > 💡 Currently open to **Frontend** and **Full Stack Developer** roles or internships  
 > 💬 Feel free to reach out for collaboration, internships, or any web development projects!
-
+> 🌱 I’m currently learning Native app Development.
 
 <!--
 **Javedjs213/Javedjs213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
